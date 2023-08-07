@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Urbanist", sans-serif;
+}
+.wrapper {
+  height: 80vh;
+
+  background-color: aquamarine;
+}
+#card {
+  background-image: url("https://images.unsplash.com/photo-1614252360204-4552963c9996?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+  height: 50vh;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}

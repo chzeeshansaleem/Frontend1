@@ -1,0 +1,51 @@
+export const categories = [
+  {
+    id: 1,
+    title: "Shirt",
+    description: "rambled it to make a type specimen book.",
+    image: "/Images/shirt2.jpg",
+    btn: "Shop Now",
+    page: "/shirts",
+  },
+  {
+    id: 2,
+    title: "Jeans",
+    description: "rambled it to make a type specimen book.",
+    image: "/Images/jeans.jpg",
+    btn: "Shop Now",
+    page: "/jeans",
+  },
+  {
+    id: 3,
+    title: "Jackets",
+    description: "rambled it to make a type specimen book.",
+    image: "/Images/jackets.jpg",
+    btn: "Shop Now",
+    page: "/jackets",
+  },
+  {
+    id: 4,
+    title: "FootWare",
+    description: "rambled it to make a type .",
+    image: "/Images/shoes.jpg",
+    btn: "Shop Now",
+    page: "/footwares",
+  },
+
+  {
+    id: 5,
+    title: "Fragnence",
+    description: "rambled it to make a type .",
+    image: "/Images/perfume1.jpg",
+    btn: "Shop Now",
+    page: "/perfumes",
+  },
+  {
+    id: 6,
+    title: "cosmetics",
+    description: "rambled it to make a.",
+    image: "/Images/casmetics.jpg",
+    btn: "Shop Now",
+    page: "/cosmetics",
+  },
+];
